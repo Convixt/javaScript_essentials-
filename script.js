@@ -26,3 +26,15 @@ var ans = arr.filter((val) =>{
 })
 
 console.log(ans);
+
+// find and indexOf 
+
+var ans = arr.find((val) =>{
+    return val == 4;
+})
+console.log(ans);
+
+var ans = arr.indexOf(4);
+console.log(ans);
+
+
