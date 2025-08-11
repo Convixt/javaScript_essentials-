@@ -18,3 +18,11 @@ var newArr = arr.map((val) => {
     
 })
 console.log(newArr);
+
+// filter in javaScript
+
+var ans = arr.filter((val) =>{
+    if(val > 5) return true;
+})
+
+console.log(ans);
