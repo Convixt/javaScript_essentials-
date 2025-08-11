@@ -37,4 +37,20 @@ console.log(ans);
 var ans = arr.indexOf(4);
 console.log(ans);
 
+//objects in javaScript 
+
+var obj = {
+    name: "Rahul",
+    age: 25,
+}
+
+
+console.log(obj.name);
+console.log(obj.age);
+
+
+
+ 
+
+
 
