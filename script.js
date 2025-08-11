@@ -9,3 +9,12 @@ arr.forEach(function(val){
 console.log(val + " hello" );
 });
     
+
+//2 Map function
+
+var newArr = arr.map((val) => {
+    return val*13;
+
+    
+})
+console.log(newArr);
